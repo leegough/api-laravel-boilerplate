@@ -1,18 +1,7 @@
 
 ## About
 
-CRUD API, base template with the following endpoints:
-
-GET /api/students will return all students and will be accepting GET requests.
-
-GET /api/students/{id} will return a student record by referencing its id and will be accepting GET requests.
-
-POST /api/students will create a new student record and will be accepting POST requests.
-
-PUT /api/students/{id} will update an existing student record by referencing its id and will be accepting PUT requests.
-
-DELETE /api/students/{id} will delete a student record by referencing its id and will be accepting DELETE requests.
-
+CRUD API base
 
 $ cd api-project
 Next, start up the Laravel server if it’s not already running:
