@@ -9,6 +9,8 @@ Next, start up the Laravel server if it’s not already running:
 $ php artisan serve
 You will be able to visit your application on https://localhost:8000.
 
+To test this endpoint open Postman and make a POST request to http://localhost:8000/api/students or if you use Valet http://<folder-name>/api/students
+
 
 
 ## Learning Laravel
